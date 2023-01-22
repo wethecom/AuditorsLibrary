@@ -1,0 +1,1 @@
+-International Motor Transit Co. vs. Seattle, 251 P. 120 The term ‘motor vehicle’ is different and broader than the word ‘automobile.’”

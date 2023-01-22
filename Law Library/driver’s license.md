@@ -1,0 +1,3 @@
+(6)
+
+“[driver’s license](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=49-USC-1239519293-1523394337&term_occur=999&term_src=title:49:subtitle:VI:part:B:chapter:313:section:31301)” means a license issued by a [State](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=49-USC-80204913-19415706&term_occur=999&term_src=) to an individual authorizing the individual to operate a [motor vehicle](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=49-USC-1582046849-19415704&term_occur=999&term_src=title:49:subtitle:VI:part:B:chapter:313:section:31301) on highways.
