@@ -8,7 +8,7 @@ Auditors Library
  - [Make 4th Amendment Complaint Forms](https://auditorsunited.org/a/civil-right-resources/)
 ## Authors
 
-- [john Connor](wethecom@gmail.com)
+- [John Connor](wethecom@gmail.com)
 
 
 
