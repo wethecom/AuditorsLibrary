@@ -12,4 +12,4 @@ The defendant requests that the court review the constitutionality of the law in
 
 WHEREFORE, the defendant respectfully requests that this Honorable Court grant the defendant's motion to dismiss."
 
-Respectfully submitted, [Name]
+Respectfully submitted, [Name] 
