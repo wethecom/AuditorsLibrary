@@ -1,0 +1,3 @@
+The US Supreme Court case law that states police cannot demand identification without probable cause is known as Hiibel v. Sixth Judicial District Court of Nevada.
+
+In this case, the Supreme Court ruled that, under certain circumstances, an officer may detain a person and request identification without violating the Fourth Amendment, as long as the officer has a reasonable suspicion that the person is involved in criminal activity. The court found that, in this case, the Nevada statute requiring a person to disclose their name during a lawful detention is constitutional.
