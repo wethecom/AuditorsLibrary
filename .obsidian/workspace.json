@@ -1,100 +1,64 @@
 {
   "main": {
-    "id": "edaa6560d572d29f",
+    "id": "63b8bda39273c713",
     "type": "split",
     "children": [
       {
-        "id": "02a1d9865aa63ba5",
+        "id": "3d61b33c0c42668c",
         "type": "tabs",
         "children": [
           {
-            "id": "ee598bbe6a99ea22",
+            "id": "5398c3bc33d78a31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law Library/Filming in Courts.md",
+                "file": "Marsy's Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48ac6a9cc1566057",
+            "id": "422167f413c51d30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law Library/demand identification.md",
+                "file": "Police Misconduct Provision of the Crime Control Act of 1994..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3fd3f8f5f46c32ba",
+            "id": "368f38a851a3ddd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solisiting Treaspass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de5f119dd1628239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Court Motions Templates/MOTION TO COMPEL DISCLOSURE OF BRADY MATERIAL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c420006631ae26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solisiting Treaspass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3803a8418128f82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Law Library/Filming in Courts.md",
+                "file": "Marsy's Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "88d247b01c795c93",
+    "id": "33a35a02f9ed2742",
     "type": "split",
     "children": [
       {
-        "id": "6d2dd3e30bb99a9d",
+        "id": "ec8633586e02413a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7225e44a2a1f77f",
+            "id": "7a55a0214c5601ce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +68,7 @@
             }
           },
           {
-            "id": "b85ad0e0e10c8d64",
+            "id": "822124dd0a1423e8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -119,7 +83,7 @@
             }
           },
           {
-            "id": "a89e15cb3e8b29a1",
+            "id": "7aa1e8f4ca2301d3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -133,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "22c73dd2f2818bc8",
+    "id": "ad03b8c2a3c2bc2c",
     "type": "split",
     "children": [
       {
-        "id": "835e6f98388db99d",
+        "id": "0344d14d886afc04",
         "type": "tabs",
         "children": [
           {
-            "id": "b2091b7655048b46",
+            "id": "e503b5d833953ff2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law Library/Filming in Courts.md",
+                "file": "Marsy's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,19 +122,19 @@
             }
           },
           {
-            "id": "530b86bd5e17b365",
+            "id": "16099ad1321fee9c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law Library/Filming in Courts.md",
+                "file": "Marsy's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2a13a346093575f5",
+            "id": "12eb20bdf03a736c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,21 +145,29 @@
             }
           },
           {
-            "id": "42e16da89ebd2061",
+            "id": "c4532312587050b8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law Library/Filming in Courts.md"
+                "file": "Marsy's Law.md"
               }
             }
+          },
+          {
+            "id": "2e55aaec26f89f9b",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,20 +176,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3803a8418128f82d",
+  "active": "368f38a851a3ddd8",
   "lastOpenFiles": [
-    "Solisiting Treaspass.md",
-    "Jurisdiction.md",
-    "Court Motions Templates/MOTION TO DISCLOSE BOND INFORMATION.md",
-    "Court Motions Templates/MOTION TO COMPEL DISCLOSURE OF BRADY MATERIAL.md",
-    "Law Library/demand identification.md",
-    "Law Library/Filming in Courts.md",
-    "Law Library/person.md",
-    "Law Library/Marsy's Law.md",
-    "Law Library/Judical Code of Conduct for United States Judges.md",
-    "README.md"
+    "Filming in Courts.md",
+    "Police Misconduct Provision of the Crime Control Act of 1994..md",
+    "Marsy's Law.md",
+    "driver’s license.md",
+    "Driver.md",
+    "Commerce.md",
+    "Automobile.md",
+    "U.S. Supreme Court says No License Necessary To Drive Automobile On Public Highways-Streets.md"
   ]
 }
