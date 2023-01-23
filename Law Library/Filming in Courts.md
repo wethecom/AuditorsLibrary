@@ -18,3 +18,17 @@ https://supreme.justia.com/cases/federal/us/408/665/
 In Branzburg v. Hayes (1972), the Supreme Court held that the First Amendment does not give journalists a right to refuse to testify before a grand jury regarding criminal conduct they observed while gathering news.
 
 These cases indicate that the First Amendment does give rights of access to the press and public to criminal proceedings and information, but it does not apply to crime scenes.
+
+
+
+
+
+In the case of Richmond Newspapers, Inc. v. Virginia, the Supreme Court of the United States ruled that the Sixth Amendment right to a public trial applies to the press and the public. The case arose when the trial court in Richmond, Virginia, ordered the courtroom closed during the trial of two individuals charged with murder, and prohibited the press from publishing any information about the trial. The press company, Richmond Newspapers, Inc., challenged the closure, arguing that it violated the First and Sixth Amendments to the United States Constitution.
+
+The Supreme Court agreed with Richmond Newspapers, Inc., and held that the closure of the trial was unconstitutional. The Court found that the Sixth Amendment guarantees the accused the right to a public trial, and that this right applies not only to the accused, but also to the press and the public. The Court also recognized that the First Amendment guarantees the press and the public the right to attend and report on criminal trials, as well as the right to receive information about criminal trials.
+
+The Court held that closure of a criminal trial to the public is only permissible if it is "essential to preserve higher values and is narrowly tailored to serve that interest." In this case, the Court found that the trial court did not provide any evidence to support its decision to close the trial, and therefore, the closure was not narrowly tailored and therefore unconstitutional. This decision reaffirmed the principle that a public trial is a fundamental right, which is essential to the functioning of an open and democratic society.
+
+
+
+
