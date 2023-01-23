@@ -1,4 +1,4 @@
-MOTION TO DISMISS
+MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD
 
 COMES NOW the defendant, [Name], and moves this Honorable Court to dismiss the charges against the defendant on the grounds that the law criminalizing resisting, delaying, or obstructing a public officer in the discharge of their official duties is unconstitutional and therefore cannot be used as a basis for prosecution in this case.
 
