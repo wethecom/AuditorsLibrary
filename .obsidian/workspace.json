@@ -82,9 +82,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bedee5f124eb6119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "demand identification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69118d95d0d134f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equa Protection/Equal Protection Clause defined.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea06000b4619716a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equa Protection/Equal Protection case law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a9da2460edd8b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equa Protection/Foia requesting investigation detials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b62765c5c0a6016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equa Protection/Foia requesting investigation detials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ae5cac7f9cef1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equa Protection/Equal Protection to sue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -150,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD Arguments.md",
+                "file": "Equa Protection/Equal Protection to sue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD Arguments.md",
+                "file": "Equa Protection/Equal Protection to sue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD Arguments.md"
+                "file": "Equa Protection/Equal Protection to sue.md"
               }
             }
           }
@@ -211,17 +283,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "214a10ed7c4258ac",
+  "active": "0ae5cac7f9cef1ff",
   "lastOpenFiles": [
-    "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW  OVERLY BROAD.md",
-    "Court Motions Templates/MOTION TO DISCLOSE BOND INFORMATION.md",
-    "Law Library/Filming in Courts.md",
-    "Solisiting Treaspass.md",
-    "Jurisdiction.md",
-    "Court Motions Templates/MOTION TO COMPEL DISCLOSURE OF BRADY MATERIAL.md",
-    "Law Library/demand identification.md",
-    "Law Library/person.md",
-    "Law Library/Marsy's Law.md",
-    "Law Library/Judical Code of Conduct for United States Judges.md"
+    "Equa Protection/Equal Protection case law.md",
+    "Equa Protection/Equal Protection to sue.md",
+    "Equa Protection/Foia requesting investigation detials.md",
+    "Equa Protection/Marsy's Law requesting investigation detials.md",
+    "Marsy's Law.md",
+    "Equa Protection/Equal Protection Clause defined.md",
+    "demand identification.md",
+    "Equel Protection.md",
+    "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD Arguments.md",
+    "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW  OVERLY BROAD.md"
   ]
 }

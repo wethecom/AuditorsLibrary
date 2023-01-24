@@ -1,4 +1,9 @@
- Marsy's Law **ensures that victims of crime have equal, constitutional rights on the same level as those accused and convicted of crimes**.
+
+ 
+ https://www.marsyslaw.us/marsys-law-state-efforts/
+ 
+ 
+ Marsy's Law **ensures that victims of crime have equal, constitutional rights on the same level as those accused and convicted of crimes**.
 
 Marsy's Law is a term used to refer to a set of victims' rights amendments that have been proposed or enacted in various states in the United States. The laws are named after Marsalee "Marsy" Nicholas, a college student who was stalked and murdered by her ex-boyfriend in 1983. Marsy's Law is designed to give victims of crime certain rights and protections, such as the right to be notified of court proceedings and the release of the accused, the right to be heard at sentencing and parole hearings, and the right to restitution.
 
