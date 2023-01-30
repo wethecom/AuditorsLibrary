@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juris notes.md",
+                "file": "Special appearance in court.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "juris notes.md",
+                "file": "Special appearance in court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "juris notes.md",
+                "file": "Special appearance in court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "juris notes.md"
+                "file": "Special appearance in court.md"
               }
             }
           },
@@ -206,15 +206,15 @@
   },
   "active": "671bd3b95f3a5cc3",
   "lastOpenFiles": [
+    "Jurisdiction.md",
+    "juris notes.md",
     "Special appearance in court.md",
     "Marsys Law/Vermonts  Marsys Law equivliant.md",
     "Marsys Law/Marsy's Law.md",
     "Filing a complaint on an officer.md",
-    "Jurisdiction.md",
     "Equal Protection/Foia requesting investigation detials.md",
     "Equal Protection/Equal Protection case law.md",
     "Equal Protection/Equal Protection Clause defined.md",
-    "demand identification.md",
-    "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD Arguments.md"
+    "demand identification.md"
   ]
 }
