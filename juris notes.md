@@ -1,14 +1,12 @@
-
 teritorial juris
 
-impersona juris
+impersona juris  
 subject matter juris
 
-note courts tend to claim they have teritorial juris but nor the later
-alwasy challagne juris with objections 
+note courts tend to claim they have teritorial juris but not the later  
+always challagne juris with objections
 
 "Thus, where a judicial tribunal has no jurisdiction of the subject matter on which it assumes to act, its proceedings are absolutely void in the fullest sense of the term." Dillon v. Dillon, 187 P 27.
-
 
 "A court has no jurisdiction to determine its own jurisdiction, for a basic issue in any case before a tribunal is its power to act, and a court must have the authority to decide that question in the first instance." Rescue Army v. Municipal Court of Los Angeles, 171 P2d 8; 331 US 549, 91 L. ed. 1666, 67 S.Ct. 1409.
 
