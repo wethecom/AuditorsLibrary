@@ -1,4 +1,9 @@
 
+# Estes v. Texas, 381 U.S. 532 (1965)
+In Estes v. Texas (1965), the Court held that the First Amendment guarantees the right of the public and the press to attend and observe criminal trials, and that this right extends to all stages of a trial, including jury selection.
+
+These cases and others have established the principle that the right to film and record public court proceedings is protected by the First Amendment, and that restrictions on this right must be narrowly tailored to serve a compelling government interest.
+https://supreme.justia.com/cases/federal/us/381/532/
 # Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555 (1980)
 https://supreme.justia.com/cases/federal/us/448/555/
 In Richmond Newspapers, Inc. v. Virginia (1980), the Supreme Court held that the Sixth Amendment right to a public trial applies to criminal trials and that the press and public have a First Amendment right of access to criminal trials.
