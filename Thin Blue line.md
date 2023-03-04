@@ -17,7 +17,7 @@ there are similar laws and regulations at the state level that restrict the poli
 
 For example, in some states, it may be illegal for state or local employees to engage in partisan political activities while on duty or using government resources, such as offices or equipment. Some states may also have restrictions on campaign activities and contributions by government employees.
 
-For example, the city of Austin has an ethics code that prohibits city employees, including police officers, from using their official position to influence elections, participating in political activities while on duty, or using city resources for political purposes.
+For example, the city of Austin has an ethics code that prohibits city employees, including police officers, from using their official position to influence elections, participating in political activities while on duty, or <u>using city resources for political purposes</u>.
 
 
 Section 556.004 of the Texas Government Code
