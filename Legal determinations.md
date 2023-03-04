@@ -27,6 +27,9 @@ Here are some examples of who can make legal determinations in different context
 
 If a police officer suspects that a crime has been committed, they may arrest the suspect and bring them before a judge, who will make a legal determination based on the evidence presented in court. Similarly, if a police officer issues a citation or ticket for a traffic violation, the determination of guilt or innocence will be made by a court, not the police officer.
 
+Under the 4th Amendment of the United States Constitution, the government is required to obtain a search warrant based on probable cause before seizing property. The warrant must be issued by a neutral and detached magistrate, and it must describe with particularity the place to be searched and the items to be seized.
+
+
 # Lawful orders
 
 Lawful orders can be given by individuals or entities with legal authority over the person or persons being ordered. Here are some examples of who can give lawful orders:
