@@ -3,7 +3,7 @@ In the United States, public employees, including police officers, have some Fir
 
 In the United States, the Hatch Act, a federal law, restricts the political activities of executive branch employees, including those in the government, from participating in partisan political activities while on duty, in a government office, or using government resources. The law is designed to ensure that government employees carry out their duties impartially and free from political influence.
 
-Hatch Act appls if a police department or other law enforcement agency in Texas receives federal funds.
+Hatch Act applies if a police department or other law enforcement agency in Texas receives federal funds.
 
 The Hatch Act is a federal law that restricts the political activities of certain federal, state, and local government employees who are paid with federal funds. The Hatch Act applies to most employees of executive branch agencies, as well as some state and local employees who work in connection with federally funded programs.
 
