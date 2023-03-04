@@ -1,7 +1,7 @@
 Police tend to make legal deterimation such as siezing autombiles not for safty but as punishment to take your stuff
 
 this is a clear violation of the 4th amendemnt
-ak the officer why he is seizing your automobile
+ask the officer why he is seizing your automobile
 is it becuase its a hazard where it is?
 if not ask him if it his legal determination that the automobile be seized
 
