@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e5e4147296a434a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legal determinations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thin Blue line.md",
+                "file": "Legal determinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thin Blue line.md",
+                "file": "Legal determinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thin Blue line.md"
+                "file": "Legal determinations.md"
               }
             }
           },
@@ -180,8 +192,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2a5b42910b40b81c",
+  "active": "5e5e4147296a434a",
   "lastOpenFiles": [
+    "Thin Blue line.md",
     "Rigths cannot be converted into crimes.md",
     "Search of the person's pockets.md",
     "Filming in Courts.md",
@@ -190,7 +203,6 @@
     "Person's name is protected arguments.md",
     "Special appearance in court.md",
     "Jurisdiction.md",
-    "juris notes.md",
-    "Marsys Law/Vermonts  Marsys Law equivliant.md"
+    "juris notes.md"
   ]
 }
