@@ -32,79 +32,19 @@
             }
           },
           {
-            "id": "1ce77ec927438901",
+            "id": "2a5b42910b40b81c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marsys Law/Vermonts  Marsys Law equivliant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6455f4312a76bf08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special appearance in court.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "671bd3b95f3a5cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special appearance in court.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "044e2bb74cd26a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Person's name is protected arguments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b512974767511b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filming in Courts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3da1764eaf4b116d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "common court procedural mechanisms.md",
+                "file": "Thin Blue line.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " A state officer or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "common court procedural mechanisms.md",
+                "file": "Thin Blue line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "common court procedural mechanisms.md",
+                "file": "Thin Blue line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "common court procedural mechanisms.md"
+                "file": "Thin Blue line.md"
               }
             }
           },
           {
-            "id": "7b470b3f58eb6edc",
+            "id": "66b76d365a66b55d",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -227,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,17 +180,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3da1764eaf4b116d",
+  "active": "2a5b42910b40b81c",
   "lastOpenFiles": [
+    "Rigths cannot be converted into crimes.md",
+    "Search of the person's pockets.md",
     "Filming in Courts.md",
+    "common court procedural mechanisms.md",
     "what if the jurisdiction is challenged.md",
     "Person's name is protected arguments.md",
     "Special appearance in court.md",
     "Jurisdiction.md",
     "juris notes.md",
-    "Marsys Law/Vermonts  Marsys Law equivliant.md",
-    "Marsys Law/Marsy's Law.md",
-    "Filing a complaint on an officer.md",
-    "Equal Protection/Foia requesting investigation detials.md"
+    "Marsys Law/Vermonts  Marsys Law equivliant.md"
   ]
 }
