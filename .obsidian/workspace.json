@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thin Blue line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e5e4147296a434a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thin Blue line.md",
+                "file": "MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " A state officer or",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thin Blue line.md",
+                "file": "MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thin Blue line.md",
+                "file": "MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thin Blue line.md"
+                "file": "MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD.md"
               }
             }
           },
@@ -192,17 +180,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5e5e4147296a434a",
+  "active": "2a5b42910b40b81c",
   "lastOpenFiles": [
-    "Legal determinations.md",
+    "OBSTRUCTION.md",
+    "Court Motions Templates/MOTION TO DISMISS OBSTRUCTION LAW  OVERLY BROAD.md",
+    "MOTION TO DISMISS OBSTRUCTION LAW OVERLY BROAD.md",
     "Thin Blue line.md",
+    "Legal determinations.md",
     "Rigths cannot be converted into crimes.md",
     "Search of the person's pockets.md",
     "Filming in Courts.md",
     "common court procedural mechanisms.md",
-    "what if the jurisdiction is challenged.md",
-    "Person's name is protected arguments.md",
-    "Special appearance in court.md",
-    "Jurisdiction.md"
+    "what if the jurisdiction is challenged.md"
   ]
 }
