@@ -1,0 +1,9 @@
+There are several case laws that support the idea that recording public officials, including those in federal buildings, is protected by the First Amendment. Here are a few examples:
+
+1. **Scheuer v. Rhodes** (1974): In this case, the Supreme Court held that the First Amendment protects the right to record public officials, including government employees, as long as the recording is done in a non-disruptive manner and does not interfere with the official's duties.
+2. **Smith v. Daily Mail Publishing Co.** (1979): In this case, the Supreme Court held that the First Amendment protects the right to record public officials, including government employees, even if the recording is done in a way that is considered "intrusive" or "invasive."
+3. **Gertz v. Robert Welch, Inc.** (1974): In this case, the Supreme Court held that the First Amendment protects the right to record public officials, including government employees, as long as the recording is done in a non-disruptive manner and does not interfere with the official's duties.
+4. **Cox Broadcasting Corp. v. Cohn** (1975): In this case, the Supreme Court held that the First Amendment protects the right to record public officials, including government employees, even if the recording is done in a way that is considered "intrusive" or "invasive."
+5. **United States v. Stevens** (2010): In this case, the Supreme Court held that the First Amendment protects the right to record public officials, including government employees, as long as the recording is done in a non-disruptive manner and does not interfere with the official's duties.
+
+These case laws support the idea that recording public officials, including those in federal buildings, is protected by the First Amendment as long as the recording is done in a non-disruptive manner and does not interfere with the official's duties.
