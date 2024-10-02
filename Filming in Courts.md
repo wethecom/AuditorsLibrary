@@ -18,11 +18,12 @@ In Globe Newspaper Co. v. Superior Court (1982), the court held that the First A
 https://supreme.justia.com/cases/federal/us/464/501/
 In Press-Enterprise Co. v. Superior Court (1984), the court held that the First Amendment guarantees the press and public a right of access to the preliminary hearing in a criminal case.
 
-# Branzburg v. Hayes, 408 U.S. 665 (1972)
-https://supreme.justia.com/cases/federal/us/408/665/
-In Branzburg v. Hayes (1972), the Supreme Court held that the First Amendment does not give journalists a right to refuse to testify before a grand jury regarding criminal conduct they observed while gathering news.
+Chandler v. Florida, 449 U.S. 560 (1981):
 
-These cases indicate that the First Amendment does give rights of access to the press and public to criminal proceedings and information, but it does not apply to crime scenes.
+The case dealt with the constitutionality of allowing cameras in courtrooms. The Supreme Court held that the presence of cameras does not automatically infringe on a defendant's right to a fair trial.
+Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555 (1980):
+
+This case established that the public and the press have a First Amendment right to attend criminal trials. While it did not specifically address filming, it highlighted the importance of transparency in judicial proceedings.
 
 
 
